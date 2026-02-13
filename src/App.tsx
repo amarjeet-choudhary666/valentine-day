@@ -1,7 +1,6 @@
 import { useState } from 'react'
-import { Heart, Sparkles, Gift, Star, Mail } from 'lucide-react'
-import { Button } from './components/ui/button'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './components/ui/card'
+import { Heart, Sparkles, Gift, Star } from 'lucide-react'
+import { Card, CardContent } from './components/ui/card'
 import pookieImage from './assets/pookie.png'
 import './App.css'
 
